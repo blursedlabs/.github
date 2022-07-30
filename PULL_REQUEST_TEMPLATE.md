@@ -9,7 +9,7 @@
 
 ## Things to check
 
-- [ ] Have you added tests to cover my changes, wherever they are necessary?
+- [ ] Have you added tests to cover your changes, wherever they are necessary?
 - [ ] Have you tested changes locally?
 - [ ] Have you followed our linter rules?
 - [ ] Have you ensured it builds?
